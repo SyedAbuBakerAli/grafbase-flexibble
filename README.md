@@ -20,3 +20,9 @@
   <li>A serverless GraphQL platform</li>
 </ul>
 
+<h2>ScreenShot</h2>
+
+
+![Screenshot 2023-09-22 122839](https://github.com/SyedAbuBakerAli/grafbase-flexibble/assets/92733250/a1cd192b-06b3-4d88-b2da-9a631b89652b)
+
+
