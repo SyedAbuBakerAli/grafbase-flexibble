@@ -1,3 +1,6 @@
+<h1>Full Stack Dribble Clone</h1>
+<p>build using Next JS 13, TypeScript, Tailwind CSS</p>
+
 <h2>features</h2>
 
 <ul>
